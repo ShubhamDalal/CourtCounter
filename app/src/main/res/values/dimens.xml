@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TopBottom16dp">16dp</dimen>
+    <dimen name="TopBottom8dp">8dp</dimen>
+    <dimen name="LeftRight24dp">24dp</dimen>
+    <dimen name="ResetButton">32dp</dimen>
+</resources>
